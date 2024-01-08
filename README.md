@@ -11,6 +11,9 @@ Notes and resources for the Computational Psycholinguistics course at IIIT Hyder
 # Lecture Contents
 * Lecture 1 (04 Jan, Thu)
     - Introduction
+* Lecture 2 (08 Jan, Mon)
+    - Language, Mind and the Brain
+        - Structure and Function of the Brain
 
 # Grading Policy
 * Project: 25%
