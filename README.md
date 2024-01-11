@@ -14,6 +14,9 @@ Notes and resources for the Computational Psycholinguistics course at IIIT Hyder
 * Lecture 2 (08 Jan, Mon)
     - Language, Mind and the Brain
         - Structure and Function of the Brain
+* Lecture 3 (11 Jan, Thu)
+    - Language, Mind and the Brain (contd.)
+        - Aphasia Studies: Tentative Conclusion
 
 # Grading Policy
 * Project: 25%
