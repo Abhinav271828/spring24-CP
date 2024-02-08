@@ -21,6 +21,14 @@ Notes and resources for the Computational Psycholinguistics course at IIIT Hyder
     - Language, Mind and the Brain (contd.)
         - Plasticity
         - Metaphor
+* Lecture 5 (25 Jan, Thu)
+    - Language, Mind and the Brain (contd.)
+        - Frequency-Ordered Bin Search
+* Lecture 6 (01 Feb, Thu)
+    - [MISSED]
+* Lecture 7 (05 Feb, Mon)
+* Lecture 8 (08 Feb, Thu)
+    - Word Processing
 
 # Grading Policy
 * Project: 25%
