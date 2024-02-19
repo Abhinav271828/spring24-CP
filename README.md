@@ -32,7 +32,7 @@ Notes and resources for the Computational Psycholinguistics course at IIIT Hyder
 * Lecture 9 (15 Feb, Thu)
     - Statistical NLP
 * Lecture 10 (17 Feb, Sat)
-    - 
+* Lecture 11 (19 Feb, Mon)
 
 # Grading Policy
 * Project: 25%
